@@ -1,6 +1,6 @@
 # DSCAS_API_Kit
 > deep-seasonal-color-analysis-system_API_Kit
-> 퍼스널 컬러 기반 옷 추천 AI 모델
+> : 퍼스널 컬러 기반 옷 추천 AI 모델 - API Ver
 
 Created by modifying [DSCAS](https://github.com/mrcmich/deep-seasonal-color-analysis-system).
 
