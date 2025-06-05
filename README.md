@@ -15,7 +15,7 @@ Created by modifying [DSCAS](https://github.com/mrcmich/deep-seasonal-color-anal
 ### API 실행 
 `conda activate dscas` 접속 후
 ```
-uvicorn ds_cas_api:app --reload
+uvicorn ds_cas_api1:app --reload
 ```
 ------
 # 설치
